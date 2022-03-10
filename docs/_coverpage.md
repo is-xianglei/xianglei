@@ -1,4 +1,4 @@
-![logo](_media/logo2.png)
+![logo](_media/logo2.jpg)
 
 # 伊邪那岐
 
