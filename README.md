@@ -6,6 +6,6 @@
 
 - **添加作者微信**
   
-    扫描下方二维码添加我的微信探讨细节问题或在文章下方直接评论哦。
+    扫描下方二维码添加我的微信探讨细节问题或在文章下方直接评论哦。💬
 
-    <img src="./docs/assets/img/wechat.png" width="180" height="180"/>
+    <img src="./docs/assets/img/wechat.png" alt="wechat" width="180" height="180"/>
