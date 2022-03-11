@@ -1,4 +1,4 @@
-- [:octocat: 首页](/README)
+- [:octocat: 首页](/)
 - :memo: 目录
    - 羊毛相关
      
@@ -6,4 +6,4 @@
 
    - 工具相关
 
-     - [第一节：IDEA热部署](./md/tools/2022-3-11-第一节-IDEA热部署.md)
+     - [第1节：IDEA热部署](./md/tools/2022-3-11-第一节-IDEA热部署.md)
