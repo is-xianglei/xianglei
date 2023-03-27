@@ -7,13 +7,17 @@
    - 工具相关
 
      - [第1节：IDEA热部署](./md/tools/2022-3-11-第一节-IDEA热部署.md)
-
-   - 中间件相关
     
-     - Elasticsearch
+   - 消息队列
+  
+     - [为什么使用消息队列](./md/mq/消息队列.md)
+
+  - 中间件相关
+    
+    - Elasticsearch
      
-       - [第1节: 了解Elasticsearch](./md/elasticsearch/2022-3-11-第一节-Elasticsearch介绍.md)
+      - [第1节: 了解Elasticsearch](./md/elasticsearch/2022-3-11-第一节-Elasticsearch介绍.md)
 
-   - Flutter
+  - Flutter
 
-     - [容器布局](./md/flutter/容器布局.md)
+    - [容器布局](./md/flutter/容器布局.md)
